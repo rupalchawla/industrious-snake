@@ -237,7 +237,6 @@
               <overWriteReleases>false</overWriteReleases>
               <overWriteSnapshots>false</overWriteSnapshots>
               <overWriteIfNewer>true</overWriteIfNewer>
-              <outputDirectory>/tmp/newrelic</outputDirectory>
             </configuration>
           </execution>
         </executions>
